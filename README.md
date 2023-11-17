@@ -2,7 +2,7 @@
 - 👀 I’m interested in web developpement
 - 🌱 I’m currently learning Javascript vanilla and framework like react Js and styling framework like tailwindcss. I'm also learning spring, spring boot, spring security for backend developpement
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me felixfarbandao@gmail.com
+- 📫 How to reach me felixndao3@gmail.com
 
 <!---
 Felix251/Felix251 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
