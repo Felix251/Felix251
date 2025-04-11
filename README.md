@@ -3,7 +3,7 @@
 ### 🚀 About Me
 - 💻 I'm passionate about **Web Development** — from beautiful UIs to robust backends.
 - 🌱 Currently diving deep into:
-  - **Frontend**: JavaScript (Vanilla), React.js, TailwindCSS
+  - **Frontend**: JavaScript (Vanilla), React.js, Next JS, TailwindCSS
   - **Backend**: Java (Spring, Spring Boot, Spring Security)
 - 🎯 Always learning, always building.
 
